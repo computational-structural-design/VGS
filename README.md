@@ -6,6 +6,7 @@ VGS is developed by Pierluigi D'Acunto (Technical University of Munich) Yuchi Sh
 
 VGS makes use of a C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license) and the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
 
+
 If you use the VGS library, please refer to the official GitHub repository: <br/>
 
 @Misc{vgs2021,
@@ -15,7 +16,6 @@ year = {2021},
 note = {Release 1.00},
 url = {https://github.com/pierluigidacunto/VGS},
 }
-
 
 
 Publications related to the VGS project include:
