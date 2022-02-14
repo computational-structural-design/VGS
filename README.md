@@ -1,6 +1,7 @@
 # VGS - Vector-based Graphic Statics
 
 Vector-based Graphic Static (VGS) is a direct extension of traditional 2D graphic statics to the third dimension. VGS introduced a generalized procedure for the construction of a 3D vector-based force diagram for any given 3D form diagram of a spatial network in static equilibrium. By establishing an interdependency between form and force diagrams, VGS allows users to transform one of the diagrams and evaluate directly the resulting transformation of the other diagram. This property allows for a quick and interactive exploration of possible equilibrium solutions in the early design phase. VGS is implemented as a plug-in for the CAD environment McNeel Rhino/Grasshopper (https://www.rhino3d.com/).
+<br>
 
 VGS is developed by:
 - __Pierluigi D'Acunto__ (Technical University of Munich)
@@ -22,6 +23,7 @@ year = {2021},
 note = {Release 1.00},
 url = {https://github.com/pierluigidacunto/VGS},
 }
+<br>
 
 Publications related to the VGS project include:
 - __D'Acunto Pierluigi, Jasienski Jean-Philippe, Ohlbrock Patrick Ole, Fivet Corentin, Schwartz Joseph, Zastavni Denis__: Vector-based 3D graphic statics: A framework for the design of spatial structures based on the relation between form and forces, International Journal of Solids and Structures, Volume 167, pp. 58-70, 2019
