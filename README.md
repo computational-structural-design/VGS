@@ -4,13 +4,10 @@ Vector-based Graphic Static (VGS) is a direct extension of traditional 2D graphi
 
 VGS is developed by:
 
-Pierluigi D'Acunto (Technical University of Munich)
-
-Yuchi Shen (Southeast University of Nanjing)
-
-Jean-Philippe Jasienski (UCLouvain)
-
-Patrick Ole Ohlbrock (ETH Zurich)
+__Pierluigi D'Acunto__ (Technical University of Munich)
+__Yuchi Shen__ (Southeast University of Nanjing)
+__Jean-Philippe Jasienski__ (UCLouvain)
+__Patrick Ole Ohlbrock__ (ETH Zurich)
 
 
 VGS makes use of a C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license) and the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
