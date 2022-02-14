@@ -8,7 +8,7 @@ VGS makes use of a C# implementation of the Boyer-Myrvold algorithm for planarit
 
 <br>
 If you use the VGS library, please refer to the official GitHub repository:
-<br>
+<br/>
 @Misc{vgs2021,
 author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole},
 title = {{VGS: Vector-based Graphic Statics}},
@@ -19,7 +19,7 @@ url = {https://github.com/pierluigidacunto/VGS},
 
 <br>
 Publications related to the VGS project include:
-<br>
+<br/>
 __D'Acunto Pierluigi, Jasienski Jean-Philippe, Ohlbrock Patrick Ole, Fivet Corentin, Schwartz Joseph, Zastavni Denis__: Vector-based 3D graphic statics: A framework for the design of spatial structures based on the relation between form and forces, International Journal of Solids and Structures, Volume 167, pp. 58-70, 2019
 
 __D'Acunto Pierluigi, Jasienski Jean-Philippe, Ohlbrock Patrick Ole, Fivet Corentin__: Vector-based 3D Graphic Statics: Transformations of Force Diagrams. Proceedings of the IASS Symposium 2017 - Interfaces: Architecture Engineering Science, Hamburg, 2017
