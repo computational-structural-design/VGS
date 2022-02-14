@@ -10,7 +10,6 @@ VGS is developed and mantained by:
 - __Jean-Philippe Jasienski__ [UCLouvain, Structures & Technologies LAB](https://sites.uclouvain.be/structech_loci/)
 - __Patrick Ole Ohlbrock__ [ETH Zurich, Chair of Structural Design](https://schwartz.arch.ethz.ch/)
 <br>
-<br>
 
 If you use the VGS library, please refer to the official GitHub repository: <br>
 @Misc{vgs2021, <br>
