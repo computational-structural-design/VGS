@@ -12,12 +12,6 @@ VGS is developed and mantained by:
 <br>
 <br>
 
-VGS makes use of the following libraries: 
-- the C# implementation of the Boyer-Myrvold algorithm for [Planarity Testing by Ondrej Nepozitek](https://github.com/OndrejNepozitek/GraphPlanarityTesting) - MIT license; 
-- the library [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/) - MIT license.
-<br>
-<br>
-
 If you use the VGS library, please refer to the official GitHub repository: <br>
 @Misc{vgs2021, <br>
 author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole}, <br>
@@ -26,6 +20,16 @@ year = {2021}, <br>
 note = {Release 1.00}, <br>
 url = {https://github.com/pierluigidacunto/VGS}, <br>
 }
+<br>
+<br>
+
+VGS makes use of the following libraries: 
+- the C# implementation of the Boyer-Myrvold algorithm for [Planarity Testing by Ondrej Nepozitek](https://github.com/OndrejNepozitek/GraphPlanarityTesting) - MIT license; 
+- the library [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/) - MIT license.
+<br>
+<br>
+
+To install  VGS, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. Please make sure that the files are unlocked. VGS requires Rhino7 SR13 or later.
 <br>
 <br>
 
