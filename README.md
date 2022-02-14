@@ -28,7 +28,7 @@ VGS makes use of the following libraries:
 <br>
 <br>
 
-To install  VGS, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. Please make sure that the files are unlocked. VGS requires Rhino7 SR13 or later.
+To install  VGS, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. Please make sure that the files are unlocked. VGS requires [Rhino7 SR13 for Windows](https://www.rhino3d.com/download/rhino-for-windows/evaluation) or later.
 <br>
 <br>
 
