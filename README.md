@@ -11,8 +11,8 @@ VGS is developed by:
 <br>
 
 VGS makes use of the following libraries: 
-- the C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license); 
-- the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
+- the C# implementation of the Boyer-Myrvold algorithm for [Planarity Testing by Ondrej Nepozitek](https://github.com/OndrejNepozitek/GraphPlanarityTesting) - MIT license; 
+- the library [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/) - MIT license.
 <br>
 
 If you use the VGS library, please refer to the official GitHub repository: <br>
