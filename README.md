@@ -15,7 +15,7 @@ VGS makes use of the following libraries:
 - the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
 <br>
 
-If you use the VGS library, please refer to the official GitHub repository:
+If you use the VGS library, please refer to the official GitHub repository: <br>
 @Misc{vgs2021,
 author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole},
 title = {{VGS: Vector-based Graphic Statics}},
