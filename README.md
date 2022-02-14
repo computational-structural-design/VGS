@@ -16,12 +16,12 @@ VGS makes use of the following libraries:
 <br>
 
 If you use the VGS library, please refer to the official GitHub repository: <br>
-@Misc{vgs2021,
-author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole},
-title = {{VGS: Vector-based Graphic Statics}},
-year = {2021},
-note = {Release 1.00},
-url = {https://github.com/pierluigidacunto/VGS},
+@Misc{vgs2021, <br>
+author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole}, <br>
+title = {{VGS: Vector-based Graphic Statics}}, <br>
+year = {2021}, <br>
+note = {Release 1.00}, <br>
+url = {https://github.com/pierluigidacunto/VGS}, <br>
 }
 <br>
 
