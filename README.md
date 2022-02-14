@@ -9,8 +9,7 @@ __Jean-Philippe Jasienski__ (UCLouvain) <br>
 __Patrick Ole Ohlbrock__ (ETH Zurich) <br>
 
 
-VGS makes use of a C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license) and the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
-
+VGS makes use of the following libraries: the C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license); the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
 
 If you use the VGS library, please refer to the official GitHub repository:
 
