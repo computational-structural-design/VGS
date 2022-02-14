@@ -6,8 +6,8 @@ VGS is developed by Pierluigi D'Acunto (Technical University of Munich), Yuchi S
 
 VGS makes use of a C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license) and the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
 
-<br/>
-If you use the VGS library, please refer to the official GitHub repository: <br/>
+<br>
+If you use the VGS library, please refer to the official GitHub repository: <br>
 
 @Misc{vgs2021,
 author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole},
@@ -17,7 +17,7 @@ note = {Release 1.00},
 url = {https://github.com/pierluigidacunto/VGS},
 }
 
-<br/>
+<br>
 Publications related to the VGS project include:
 
 __D'Acunto Pierluigi, Jasienski Jean-Philippe, Ohlbrock Patrick Ole, Fivet Corentin, Schwartz Joseph, Zastavni Denis__: Vector-based 3D graphic statics: A framework for the design of spatial structures based on the relation between form and forces, International Journal of Solids and Structures, Volume 167, pp. 58-70, 2019
