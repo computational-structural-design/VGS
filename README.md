@@ -2,11 +2,11 @@
 
 Vector-based Graphic Static (VGS) is a direct extension of traditional 2D graphic statics to the third dimension. VGS introduced a generalized procedure for the construction of a 3D vector-based force diagram for any given 3D form diagram of a spatial network in static equilibrium. By establishing an interdependency between form and force diagrams, VGS allows users to transform one of the diagrams and evaluate directly the resulting transformation of the other diagram. This property allows for a quick and interactive exploration of possible equilibrium solutions in the early design phase. VGS is implemented as a plug-in for the CAD environment McNeel Rhino/Grasshopper (https://www.rhino3d.com/).
 
-VGS is developed by:
+VGS is developed by: <br>
 __Pierluigi D'Acunto__ (Technical University of Munich) <br>
-__Yuchi Shen__ (Southeast University of Nanjing)
-__Jean-Philippe Jasienski__ (UCLouvain)
-__Patrick Ole Ohlbrock__ (ETH Zurich)
+__Yuchi Shen__ (Southeast University of Nanjing) <br>
+__Jean-Philippe Jasienski__ (UCLouvain) <br>
+__Patrick Ole Ohlbrock__ (ETH Zurich) <br>
 
 
 VGS makes use of a C# implementation of the Boyer-Myrvold algorithm for planarity testing by Ondrej Nepozitek (https://github.com/OndrejNepozitek/GraphPlanarityTesting - MIT license) and the library Math.NET Numerics (https://www.nuget.org/packages/MathNet.Numerics/ MIT license).
