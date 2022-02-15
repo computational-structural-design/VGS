@@ -24,7 +24,7 @@ url = {https://github.com/pierluigidacunto/VGS}, <br>
 
 VGS makes use of the following libraries: 
 - the C# implementation of the Boyer-Myrvold algorithm for [Planarity Testing by Ondrej Nepozitek](https://github.com/OndrejNepozitek/GraphPlanarityTesting) - MIT license; 
-- the library [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/) - MIT license.
+- [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/) - MIT license.
 <br>
 <br>
 
