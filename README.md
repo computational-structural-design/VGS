@@ -16,7 +16,7 @@ If you use the VGS library, please refer to the official GitHub repository: <br>
 author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole}, <br>
 title = {{VGS: Vector-based Graphic Statics}}, <br>
 year = {2021}, <br>
-note = {Release 1.00}, <br>
+note = {Release 1.00 Beta}, <br>
 url = {https://github.com/pierluigidacunto/VGS}, <br>
 }
 <br>
