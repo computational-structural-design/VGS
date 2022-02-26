@@ -11,7 +11,7 @@ VGS is developed and mantained by:
 - __Patrick Ole Ohlbrock__ [ETH Zurich, Chair of Structural Design](https://schwartz.arch.ethz.ch/)
 <br>
 
-If you use the VGS library, please refer to the official GitHub repository: <br>
+If you use the VGS library, please reference the official GitHub repository: <br>
 @Misc{vgs2021, <br>
 author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole}, <br>
 title = {{VGS: Vector-based Graphic Statics}}, <br>
