@@ -1,6 +1,6 @@
 # VGS Tool - Vector-based Graphic Statics
 
-Vector-based Graphic Static (VGS) is a direct extension of traditional 2D graphic statics to the third dimension. VGS introduced a generalized procedure for the construction of a 3D vector-based force diagram for any given 3D form diagram of a spatial network in static equilibrium. By establishing an interdependency between form and force diagrams, VGS allows users to transform one of the diagrams and evaluate directly the resulting transformation of the other diagram. This property allows for a quick and interactive exploration of possible equilibrium solutions in the early design phase. VGS Tool is implemented as a plug-in for the CAD environment [McNeel Rhino/Grasshopper](https://www.rhino3d.com/).
+Vector-based Graphic Static (VGS) is a direct extension of traditional 2D graphic statics to the third dimension. VGS introduced a generalized procedure for the construction of a 3D vector-based force diagram for any given 3D form diagram of a spatial network in static equilibrium. By establishing an interdependency between form and force diagrams, VGS allows users to transform one of the diagrams and evaluate directly the resulting transformation of the other diagram. This property allows for a quick and interactive exploration of possible equilibrium solutions in the early design phase. VGS Tool is implemented as a plug-in for the CAD environment [McNeel Rhino/Grasshopper](https://www.rhino3d.com/) for both Windows and MacOS.
 <br>
 <br>
 
@@ -29,7 +29,7 @@ VGS Tool makes use of the following libraries:
 <br>
 <br>
 
-To install  VGS Tool, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. Please make sure that the files are unlocked. VGS requires [Rhino7 SR13 for Windows](https://www.rhino3d.com/download/rhino-for-windows/evaluation) or later.
+To install  VGS Tool, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. If you work on Windows, please make sure that the files are unlocked. VGS requires [Rhino7 SR13 for Windows](https://www.rhino3d.com/download/rhino-for-windows/evaluation) or [Rhino7 SR13 for MacOS] (https://www.rhino3d.com/download/rhino-for-mac/evaluation).
 <br>
 <br>
 
