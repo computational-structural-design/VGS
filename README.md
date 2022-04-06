@@ -29,7 +29,7 @@ VGS Tool makes use of the following libraries:
 <br>
 <br>
 
-To install  VGS Tool, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. If you work on Windows, please make sure that the files are unlocked. VGS requires [Rhino7 SR13 for Windows](https://www.rhino3d.com/download/rhino-for-windows/evaluation) or [Rhino7 SR13 for MacOS](https://www.rhino3d.com/download/rhino-for-mac/evaluation).
+To install  VGS Tool, please copy the folder "VGS1.00beta" in the "Libraries" folder of Grasshopper. If you work on Windows, please make sure that the files are unlocked. VGS requires [Rhino7 SR13 for Windows](https://www.rhino3d.com/download/rhino-for-windows/evaluation) or [Rhino7 SR13 for MacOS](https://www.rhino3d.com/download/rhino-for-mac/evaluation) or later.
 <br>
 <br>
 
