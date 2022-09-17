@@ -5,7 +5,7 @@ Vector-based Graphic Static (VGS) is a direct extension of traditional 2D graphi
 <br>
 
 VGS Tool is developed and mantained by:
-- __Pierluigi D'Acunto__ [Technical University of Munich, Professorship of Structural Design](https://www.arc.ed.tum.de/sd/startseite/)
+- __Pierluigi D'Acunto__ [Technical University of Munich, Professorship of Structural Design](https://www.arc.ed.tum.de/sd/structural-design/)
 - __Yuchi Shen__ [Southeast University of Nanjing, School of Architecture](http://arch.seu.edu.cn/jz_en/main.htm)
 - __Jean-Philippe Jasienski__ [UCLouvain, Structures & Technologies LAB](https://sites.uclouvain.be/structech_loci/)
 - __Patrick Ole Ohlbrock__ [ETH Zurich, Chair of Structural Design](https://schwartz.arch.ethz.ch/)
