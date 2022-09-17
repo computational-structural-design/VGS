@@ -13,7 +13,7 @@ VGS Tool is developed and mantained by:
 
 If you use the VGS Tool, please reference the official GitHub repository: <br>
 @Misc{vgs2021, <br>
-author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohbrock, Patrick Ole}, <br>
+author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and Ohlbrock, Patrick Ole}, <br>
 title = {{VGS Tool: Vector-based Graphic Statics}}, <br>
 year = {2021}, <br>
 note = {Release 1.00 Beta}, <br>
