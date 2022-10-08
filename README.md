@@ -17,7 +17,7 @@ author = {D'Acunto, Pierluigi and Shen, Yuchi and Jasienski, Jean-Philippe and O
 title = {{VGS Tool: Vector-based Graphic Statics}}, <br>
 year = {2021}, <br>
 note = {Release 1.00 Beta}, <br>
-url = {https://github.com/computational-structural-design/VGS}, <br>
+url = {https://github.com/computational-structural-design/VGS.git}, <br>
 }
 <br>
 <br>
