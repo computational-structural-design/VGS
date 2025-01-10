@@ -1,0 +1,12 @@
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\bin\3DGS_Main.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\bin\3DGS_Main.pdb
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\bin\CSparse.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.Data.Text.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.csprojAssemblyReference.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.csproj.GenerateResource.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.csproj.CoreCompileInputs.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.csproj.CopyComplete
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\3DGS_Main.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\3DGS_Main.pdb
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN\3DGS_Main\3DGS_Main\obj\Debug\_3DGS_Main.Properties.Resources.resources

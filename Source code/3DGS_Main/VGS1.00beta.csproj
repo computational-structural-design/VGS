@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E346E2F0-F79E-4709-9F66-444629A0DE50}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GraphicStatic</RootNamespace>
+    <AssemblyName>VGS1.00beta</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GH_IO, Version=6.26.20147.6511, Culture=neutral, PublicKeyToken=6a29997d2e6b4f97, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Rhino 7\Plug-ins\Grasshopper\GH_IO.dll</HintPath>
+    </Reference>
+    <Reference Include="GraphPlanarityTesting">
+      <HintPath>..\Environment\GraphPlanarityTesting.dll</HintPath>
+    </Reference>
+    <Reference Include="Grasshopper, Version=6.26.20147.6511, Culture=neutral, PublicKeyToken=dda4f5ec2cd80803, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Rhino 7\Plug-ins\Grasshopper\Grasshopper.dll</HintPath>
+    </Reference>
+    <Reference Include="KangarooSolver, Version=2.5.2.0, Culture=neutral, PublicKeyToken=794d913993c0f82d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Rhino 7\Plug-ins\Grasshopper\Components\KangarooSolver.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics, Version=4.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Environment\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="RhinoCommon, Version=6.26.20147.6511, Culture=neutral, PublicKeyToken=552281e97c755530, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files\Rhino 7\System\RhinoCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0.Common\0.System.cs" />
+    <Compile Include="0.Common\1.VgsCommon.cs" />
+    <Compile Include="2.Algorithm\Transformation\PhysicalVGS.cs" />
+    <Compile Include="3.Components\32_External Forces.cs" />
+    <Compile Include="3.Components\34_Generate Force Diagram.cs" />
+    <Compile Include="3.Components\36_Select Edges.cs" />
+    <Compile Include="2.Algorithm\ForceDiagram\AssembleForceDiagram.cs" />
+    <Compile Include="2.Algorithm\Transformation\Transformation.cs" />
+    <Compile Include="2.Algorithm\ForceDiagram\PostManAlgorithm.cs" />
+    <Compile Include="2.Algorithm\Planarization\HalfEdgePlanarize.cs" />
+    <Compile Include="2.Algorithm\Common\ShortPathDijkstra.cs" />
+    <Compile Include="2.Algorithm\Equilibrium\EquilibriumMatrix.cs" />
+    <Compile Include="3.Components\10_System Config.cs" />
+    <Compile Include="3.Components\21_Edges.cs" />
+    <Compile Include="3.Components\22_Loads.cs" />
+    <Compile Include="3.Components\23_Supports.cs" />
+    <Compile Include="3.Components\40_Extract Equilibrium Model.cs" />
+    <Compile Include="GraphicStatic.cs" />
+    <Compile Include="3.Components\24_SelfStress.cs" />
+    <Compile Include="3.Components\38_Extract Form Diagram.cs" />
+    <Compile Include="3.Components\41_Visualize Diagrams.cs" />
+    <Compile Include="3.Components\25_Structural Model.cs" />
+    <Compile Include="3.Components\26_Evaluate Equilibrium.cs" />
+    <Compile Include="3.Components\31_Internal Forces.cs" />
+    <Compile Include="3.Components\33_Assemble Form Diagram.cs" />
+    <Compile Include="3.Components\39_Extract Force Diagram.cs" />
+    <Compile Include="3.Components\51_Transformation.cs" />
+    <Compile Include="3.Components\42_Locate Diagram.cs" />
+    <Compile Include="3.Components\52_Simulation Config.cs" />
+    <Compile Include="3.Components\54_Constrain External Force.cs" />
+    <Compile Include="3.Components\55_Constrain Internal Force.cs" />
+    <Compile Include="3.Components\56_Constrain Node.cs" />
+    <Compile Include="3.Components\43_Diagrams Evaluation.cs" />
+    <Compile Include="3.Components\37_Select Nodes.cs" />
+    <Compile Include="3.Components\53_Interdependency Config.cs" />
+    <Compile Include="3.Components\57_Load Path Optimization.cs" />
+    <Compile Include="3.Components\35_Read Rhino Diagram.cs" />
+    <Compile Include="1.Modelling\3.FcAssembleData.cs" />
+    <Compile Include="1.Modelling\4.FormForceDiagram.cs" />
+    <Compile Include="1.Modelling\2.EquilibriumModelling.cs" />
+    <Compile Include="1.Modelling\1.ModelElements.cs" />
+    <Compile Include="1.Modelling\0.StructureElements.cs" />
+    <Compile Include="2.Algorithm\Planarization\ReadRhinoPlanarGraph.cs" />
+    <Compile Include="2.Algorithm\Planarization\Planarization Methods.cs" />
+    <Compile Include="2.Algorithm\Planarization\Planarity.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-56.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-59.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-66.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-67.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-68.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-69.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-70.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-73.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-74.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-76.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-78.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-79.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-81.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VGS-82.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>Copy "$(TargetPath)" "$(TargetDir)$(ProjectName).gha"
+Erase "$(TargetPath)"</PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <FallbackCulture>en-US</FallbackCulture>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartProgram>C:\Program Files\Rhino 6\System\Rhino.exe</StartProgram>
+    <StartArguments>
+    </StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+</Project>

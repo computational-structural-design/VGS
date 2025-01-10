@@ -1,0 +1,117 @@
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csprojAssemblyReference.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_CleanUp_220122\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csprojAssemblyReference.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\Users\SHEN Yuchi\Desktop\DEVE\000_3DGS_MAIN_DistinguishFormAndForce_220322\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csprojAssemblyReference.cache
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\13_WORK\003_软件开发\DEVE\000_220322_3DGS_MAIN_DistinguishFormAndForce\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\13_WORK\003_软件开发\DEVE\000_220411_VGS_MAIN_\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.AssemblyReference.cache
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.AssemblyReference.cache
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\13_WORK\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.AssemblyReference.cache
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\05_Works\003_软件开发\DEVE\000_220817_VGS_CleanUp\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\VGS1.00beta.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\VGS1.00beta.pdb
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\GH_IO.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\GraphPlanarityTesting.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\Grasshopper.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\KangarooSolver.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\RhinoCommon.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\MathNet.Numerics.xml
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.AssemblyReference.cache
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\GraphicStatic.Properties.Resources.resources
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.GenerateResource.cache
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CoreCompileInputs.cache
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.csproj.CopyComplete
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\obj\Debug\VGS1.00beta.pdb
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\Mono.Cecil.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\GH_Util.dll
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\GH_IO.xml
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\Grasshopper.xml
+C:\05_Works\003_软件开发\DEVE\000_221020_VGS_Develop\3DGS_Main\3DGS_Main\bin\RhinoCommon.xml
